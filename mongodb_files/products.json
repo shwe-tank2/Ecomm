@@ -1,0 +1,97 @@
+[{
+  "_id": 105,
+  "pName": "Relay Winker Covers",
+  "price": 50,
+  "supplier_id": 201,
+  "img_path": "../../assets/image/RelayWinker.png"
+},{
+  "_id": 106,
+  "pName": "Relay Starter Covers",
+  "price": 100,
+  "supplier_id": 202,
+  "img_path": "../../assets/image/RelayStartercovers.png"
+},{
+  "_id": 107,
+  "pName": "Relay Starter  Base plate",
+  "price": 50,
+  "supplier_id": 202,
+  "img_path": "../../assets/image/RelayStarter.png"
+},{
+  "_id": 108,
+  "pName": "Starter Relay-Asco",
+  "price": 50,
+  "supplier_id": 202,
+  "img_path": "../../assets/image/Starter Relay-ASCO.png"
+},{
+  "_id": 109,
+  "pName": "PR Case",
+  "price": 50,
+  "supplier_id": 202,
+  "img_path": "../../assets/image/PRcase.png"
+},{
+  "_id": 110,
+  "pName": "PR Baseplate",
+  "price": 50,
+  "supplier_id": 201,
+  "img_path": "../../assets/image/PowerRelayComponents.png"
+},{
+  "_id": 111,
+  "pName": "PR Bobbin",
+  "price": 50,
+  "supplier_id": 202,
+  "img_path": "../../assets/image/PRBobbin.png"
+},{
+  "_id": 112,
+  "pName": "Contact Housing  Sub Assy",
+  "price": 50,
+  "supplier_id": 203,
+  "img_path": "../../assets/image/contacthousing.png"
+},{
+  "_id": 113,
+  "pName": "Regulator Moulding",
+  "price": 23,
+  "supplier_id": 202,
+  "img_path": "../../assets/image/RegulatorMoulding.png"
+},{
+  "_id": 114,
+  "pName": "Hooter Components - Mahindra ",
+  "price": 120,
+  "supplier_id": 202,
+  "img_path": "../../assets/image/HooterComponents-mahindra.png"
+},{
+  "_id": 115,
+  "pName": "Electronic Beeper Components",
+  "price": 120,
+  "supplier_id": 203,
+  "img_path": "../../assets/image/ElectronicBeeperComponents.png"
+},{
+  "_id": 116,
+  "pName": "Terminal Cap Red and Black",
+  "price": 150,
+  "supplier_id": 201,
+  "img_path": "../../assets/image/TerminalCapRedandBlack.png"
+},{
+  "_id": 117,
+  "pName": "mask123",
+  "price": 200,
+  "supplier_id": 117,
+  "img_path": "../../assets/images/mask.jpg"
+},{
+  "_id": 118,
+  "pName": "basket1234",
+  "price": 200,
+  "supplier_id": 117,
+  "img_path": "../../assets/images/mask.jpg"
+},{
+  "_id": 119,
+  "pName": "basket",
+  "price": 200,
+  "supplier_id": 117,
+  "img_path": "../../assets/images/mask.jpg"
+},{
+  "_id": 3,
+  "pName": "yuktha",
+  "price": "Production",
+  "supplier_id": "5",
+  "img_path": null
+}]

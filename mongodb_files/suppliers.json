@@ -1,0 +1,103 @@
+[{
+  "_id": 1,
+  "sName": "Manoj",
+  "sAddress": [
+    {
+      "house_no": "12121",
+      "street": "9th cross",
+      "area": "rajaji",
+      "city": "bangalore",
+      "state": "karnataka",
+      "country": "india",
+      "pincode": "560007"
+    }
+  ],
+  "img_path": 1200012
+},{
+  "_id": 2,
+  "sName": "Mohan123",
+  "img_path": "12345",
+  "sAddress": [
+    {
+      "id": 0,
+      "house_no": "10",
+      "street": "2nd",
+      "area": "Hebbal",
+      "city": "Bangalore",
+      "state": "Karnataka",
+      "country": "India",
+      "pincode": "560002"
+    }
+  ]
+},{
+  "_id": 3,
+  "sName": "Rohit1",
+  "sAddress": [
+    {
+      "id": 0,
+      "house_no": "3",
+      "street": "4th",
+      "area": "BTM Layout",
+      "city": "Bangalore",
+      "state": "Karnataka",
+      "country": "India",
+      "pincode": "560003"
+    }
+  ],
+  "img_path": "232323"
+},{
+  "_id": 4,
+  "sName": "4",
+  "sAddress": [
+    {
+      "house_no": "4",
+      "street": "4",
+      "area": "4",
+      "city": "4",
+      "state": "4",
+      "country": "4",
+      "pincode": "4"
+    }
+  ],
+  "img_path": "4"
+},{
+  "_id": 5,
+  "img_path": "../../assets/images/facemaskblue.jpg",
+  "sAddress": [
+    {
+      "id": 1,
+      "house_no": 34,
+      "street": "Malleswaram central",
+      "area": "Malleswaram",
+      "city": "Blr",
+      "state": "Karnatka",
+      "pincode": "223535",
+      "country": "india"
+    }
+  ],
+  "sName": "Indian Components"
+},{
+  "_id": 6,
+  "sName": "Miti bha",
+  "sAddress": [
+    {
+      "house_no": "10",
+      "street": "10th",
+      "area": "mal",
+      "city": "mys",
+      "state": "kar",
+      "country": "ind",
+      "pincode": "57002"
+    },
+    {
+      "house_no": "qQ",
+      "street": "q",
+      "area": "q",
+      "city": "q",
+      "state": "q",
+      "country": "q",
+      "pincode": "123456"
+    }
+  ],
+  "img_path": "100000"
+}]

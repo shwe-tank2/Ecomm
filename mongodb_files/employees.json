@@ -1,0 +1,101 @@
+[{
+  "_id": 1,
+  "eName": "Manoj",
+  "eaddress": [
+    {
+      "house_no": "12",
+      "street": "9th cross",
+      "area": "rajaji",
+      "city": "bangalore",
+      "state": "karnataka",
+      "country": "india",
+      "pincode": "560007"
+    }
+  ],
+  "esalary": 1200012,
+  "erole": "Employee"
+},{
+  "_id": 2,
+  "eName": "Mohan",
+  "eaddress": [
+    {
+      "id": 0,
+      "house_no": "10",
+      "street": "2nd",
+      "area": "Hebbal",
+      "city": "Bangalore",
+      "state": "Karnataka",
+      "country": "India",
+      "pincode": "560002"
+    }
+  ],
+  "esalary": "12345",
+  "erole": "Manager"
+},{
+  "_id": 3,
+  "eName": "Rohit",
+  "eaddress": [
+    {
+      "id": 0,
+      "house_no": "3",
+      "street": "4th",
+      "area": "BTM Layout",
+      "city": "Bangalore",
+      "state": "Karnataka",
+      "country": "India",
+      "pincode": "560003"
+    }
+  ],
+  "esalary": "232323",
+  "erole": "Manager"
+},{
+  "_id": 4,
+  "eName": "Raghu",
+  "eaddress": [
+    {
+      "id": 0,
+      "house_no": "23",
+      "street": "2nd",
+      "area": "BTM",
+      "city": "Bangalore",
+      "state": "Karnataka",
+      "country": "India",
+      "pincode": "560001"
+    }
+  ],
+  "esalary": "3423423",
+  "erole": "Employee"
+},{
+  "_id": 6,
+  "eName": "Miti",
+  "eaddress": [
+    {
+      "house_no": "10",
+      "street": "10th",
+      "area": "mal",
+      "city": "mys",
+      "state": "kar",
+      "country": "ind",
+      "pincode": "57002"
+    }
+  ],
+  "esalary": "100000",
+  "erole": "Employee"
+},{
+  "_id": 7,
+  "eName": "Monisha",
+  "eaddress": [
+    {
+      "id": 0,
+      "house_no": "10",
+      "street": "3rd",
+      "area": "Kuvempunagar",
+      "city": "Mysuru",
+      "state": "Karnataka",
+      "country": "India",
+      "pincode": "576543"
+    }
+  ],
+  "esalary": "16773",
+  "erole": "Employee"
+}]

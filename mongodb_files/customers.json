@@ -1,0 +1,36 @@
+[{
+  "_id": 1,
+  "cName": "cust1",
+  "cDesignation": "des1",
+  "cAddress": [
+    {
+      "id": 4,
+      "house_no": 1,
+      "street": "a cross",
+      "area": "malleshwaram",
+      "city": "Bangalore",
+      "country": "India",
+      "pincode": "515"
+    }
+  ],
+  "cWebsite": ".com",
+  "cMobile_num": "666",
+  "cEmail": "gmail"
+},{
+  "_id": 2,
+  "cName": "5",
+  "cDesignation": "5",
+  "cAddress": [
+    {
+      "house_no": "5",
+      "street": "5",
+      "area": "5",
+      "city": "5",
+      "country": "5",
+      "pincode": "5"
+    }
+  ],
+  "cWebsite": "5",
+  "cMobile_num": "5",
+  "cEmail": "5"
+}]
